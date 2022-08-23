@@ -1,4 +1,4 @@
-.card-img-top {
+.card-img-top ,.featurerd-image {
   width:100%;
   height: 250px;
   object-fit: cover;
